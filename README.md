@@ -25,3 +25,5 @@ Como administrador del sistema, quiero registrar las actividades extracurricular
   - El sistema permitira editar.
 
 ![image](https://github.com/user-attachments/assets/9382c6de-def2-4230-9f68-be6ad232bf18)
+
+https://github.com/edwardapaza/SM2_EXAMEN_PRACTICO/tree/main
